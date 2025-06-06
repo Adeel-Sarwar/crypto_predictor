@@ -7,5 +7,5 @@ A Python tool to fetch real-time Bitcoin prices and predict the next price using
 ## Screenshots
 ![Terminal Output](screenshots/terminal_output.png)
 ## How to Run
-1. Install dependencies: `pip install requests pandas scikit-learn`
+1. Install dependencies: `pip install requests scikit-learn`
 2. Run `python crypto_predictor.py`
